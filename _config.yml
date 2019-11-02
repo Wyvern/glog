@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Wyvern's github blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Thinking in C++, Coding in Swift, Design in SwiftUI
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/32942?s=400&u=93fa9cf6e11b5edb55ae49a6345e730f51646b99&v=4
 
 #
 # Flags below are optional
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: msft.cf
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
